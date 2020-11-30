@@ -1,1 +1,1 @@
-Sitemap: https://silent-ai.com/home/sitemap.xml
+Sitemap: https://silent-ai.com/site/sitemap.xml
