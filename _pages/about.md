@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About Me
+title: About silent-ai
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+We are building an affordable robot arm. 
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+ - Lifts up to 3kg
+ - Silent operation
+ - Small footprint
+ - 3D perception through time
+ - Learns to operate in any enviroment
+ - Collaborative, safe to work alongside humans
+ - < 1mm repeatable accuracy
